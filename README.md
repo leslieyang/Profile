@@ -8,11 +8,45 @@
 
 - Embedded ARM platform development
 
-## Experience
+## Skills
+
+### Programming
+
+- C/C++
+- Qt
+- Markdown
+
+### IDE/Editor
+
+- Visual Studio
+- Visual Studio Code
+- Code Warrior
+- IAR Embedded Workbench
+- STM32CudeIde
+- xilinx SDK
+
+### Platform
+
+- Atmel AT91SAM7/AT91SAM9
+- Freescale/NxP Kinetis
+- STM32
+- Xilinx Zynq-7000
+
+### Operation System
+
+- FreeRTOS
+- uC/OS
+- MQX
+
+## Work Experience
 
 ### Software Manager
 
 - 2008/04 ~ Present
+- Design product hardware requirement
+- Porting project to new vendor ARM MCU platform
+- Co-work with hardware department
+- Project management
 
 ### Software Associate Manager
 
