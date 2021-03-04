@@ -1,18 +1,12 @@
 # Profile
 
-## Education
+## About
 
-### Master, Tatung University
+- Software/firmware engineer
 
-- 2004 ~ 2007
-- Master of Science, Computer Network, Institute of Communication Engineering
-- 組合語言/計算機組織 助教
+## Specialty
 
-### Bachelor, Tatung University
-
-- 2000 ~ 2004
-- Bachelor of Science, Department of Electrical Engineering
-- BBS 副站長
+- Embedded ARM platform development
 
 ## Experience
 
@@ -36,3 +30,17 @@
 - Hardware validation
 - NMEA 0183 protocol codec development
 - AIS message codec development
+
+## Education
+
+### Master, Tatung University
+
+- 2004 ~ 2007
+- Master of Science, Computer Network, Institute of Communication Engineering
+- 組合語言/計算機組織 助教
+
+### Bachelor, Tatung University
+
+- 2000 ~ 2004
+- Bachelor of Science, Department of Electrical Engineering
+- BBS 副站長
