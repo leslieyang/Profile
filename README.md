@@ -3,6 +3,7 @@
 ## About
 
 - Software/firmware engineer
+- Electronic mail address leslie yang 0509 at msn dot com (no space)
 
 ## Specialty
 
