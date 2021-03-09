@@ -32,11 +32,20 @@
 - STM32
 - Xilinx Zynq-7000
 
-### Operation System
+### Embedded Operating System
 
 - FreeRTOS
 - uC/OS
 - MQX
+
+### Other
+
+- Git
+- CMake
+- Script
+- HTML
+- PHP
+- LwIP
 
 ## Work Experience
 
