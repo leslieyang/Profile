@@ -10,7 +10,11 @@
 
 ## Specialty
 
-- Embedded ARM platform development
+- Embedded platform development
+- Bring-up, verification, and debug of new hardware platforms
+- Porting to new RTOS
+- Development proprietary low level BSP
+- Reduce code size
 
 ## Skills
 
@@ -46,10 +50,11 @@
 
 - Git
 - CMake
-- Script
+- Script/CLI/Bash
 - HTML
 - PHP
 - LwIP
+- Schematic/Layout file reading
 
 ## Work Experience
 
@@ -84,10 +89,8 @@
 
 - 2004 ~ 2007
 - Master of Science, Computer Network, Institute of Communication Engineering
-- 組合語言/計算機組織 助教
 
 ### Bachelor, Tatung University
 
 - 2000 ~ 2004
 - Bachelor of Science, Department of Electrical Engineering
-- BBS 副站長
