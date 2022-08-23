@@ -12,7 +12,7 @@
 
 - Embedded platform development
 - Bring-up, verification, and debug of new hardware platforms
-- Porting to new RTOS
+- Porting application to new RTOS
 - Development proprietary low level BSP
 - Reduce code size
 
@@ -31,9 +31,10 @@
 - Code Warrior
 - IAR Embedded Workbench
 - STM32CudeIde
-- xilinx SDK
+- Xilinx SDK
+- QT Creator
 
-### Platform
+### MCU Platform
 
 - Atmel AT91SAM7/AT91SAM9
 - Freescale/NxP Kinetis
