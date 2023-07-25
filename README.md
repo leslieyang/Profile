@@ -16,6 +16,31 @@
 - Development proprietary low level BSP
 - Reduce code size
 
+## Project
+
+### Crossplatform Application
+
+* Development GUI application for windows and MacOS.
+* Cmake for multi IDE
+* Qt5 and Qt6
+* MinGW 
+* Build snstaller package for end user
+* Write batch/bash script for release software
+
+### Barematel Firmware Development
+
+* Define MCU pin out
+* Review schematic
+* Bring up barematel target platform
+* Validation and verification PCBA
+* Development BIIT and cooperate with ATE
+
+### Embedded System Development
+
+* Development propietary HAL for small ram/flash application
+* Optimizate software architecture
+* Refactory the source code for reduce RAM and Flash usage
+
 ## Skills
 
 ### Programming
@@ -51,7 +76,7 @@
 
 - Git
 - CMake
-- Script/CLI/Bash
+- Script/CLI/Bash/batch
 - HTML
 - PHP
 - LwIP
