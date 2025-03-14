@@ -23,8 +23,7 @@
 * Development GUI application for windows and MacOS.
 * Cmake for multi IDE
 * Qt5 and Qt6
-* MinGW 
-* Build snstaller package for end user
+* Build installer package for end user
 * Write batch/bash script for release software
 
 ### Barematel Firmware Development
