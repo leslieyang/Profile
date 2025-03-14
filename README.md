@@ -58,6 +58,7 @@
 - STM32CudeIde
 - Xilinx SDK
 - QT Creator
+- AMD Vitis
 
 ### MCU Platform
 
@@ -80,13 +81,13 @@
 - HTML
 - PHP
 - LwIP
-- Schematic/Layout file reading
+- Schematic/Layout review
 
 ## Work Experience
 
 ### Software Manager
 
-- 2008/04 ~ Present
+- 2018/04 ~ Present
 - Design product hardware requirement
 - Porting project to new vendor ARM MCU platform
 - Co-work with hardware department
